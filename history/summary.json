@@ -16,5 +16,41 @@
     "timeMonth": 173,
     "timeYear": 174,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Downloads",
+    "url": "https://downloads.blissroms.org",
+    "icon": "https://icons.duckduckgo.com/ip3/downloads.blissroms.org.ico",
+    "slug": "downloads",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 740,
+    "timeDay": 740,
+    "timeWeek": 740,
+    "timeMonth": 740,
+    "timeYear": 740,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "API",
+    "url": "https://downloads.blissroms.org/api/",
+    "icon": "https://icons.duckduckgo.com/ip3/downloads.blissroms.org.ico",
+    "slug": "api",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 159,
+    "timeDay": 159,
+    "timeWeek": 159,
+    "timeMonth": 159,
+    "timeYear": 159,
+    "dailyMinutesDown": {}
   }
 ]
