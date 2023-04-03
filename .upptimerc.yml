@@ -9,6 +9,8 @@ sites:
     url: https://downloads.blissroms.org
   - name: API
     url: https://downloads.blissroms.org/api/
+    expectedStatusCodes:
+      - 404
 
 
 status-website:
