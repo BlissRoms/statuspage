@@ -5,6 +5,13 @@ repo: statuspage
 sites:
   - name: Website
     url: https://blissroms.org
+  - name: Downloads
+    url: https://downloads.blissroms.org
+  - name: API
+    url: https://downloads.blissroms.org/api/
+    expectedStatusCodes:
+      - 404
+
 
 status-website:
   cname: status.blissroms.org
