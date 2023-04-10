@@ -22,35 +22,39 @@
     "url": "https://downloads.blissroms.org",
     "icon": "https://icons.duckduckgo.com/ip3/downloads.blissroms.org.ico",
     "slug": "downloads",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 670,
-    "timeDay": 738,
-    "timeWeek": 670,
-    "timeMonth": 670,
-    "timeYear": 670,
-    "dailyMinutesDown": {}
+    "time": 655,
+    "timeDay": 638,
+    "timeWeek": 655,
+    "timeMonth": 655,
+    "timeYear": 655,
+    "dailyMinutesDown": {
+      "2023-04-10": 0
+    }
   },
   {
     "name": "API",
     "url": "https://downloads.blissroms.org/api/",
     "icon": "https://icons.duckduckgo.com/ip3/downloads.blissroms.org.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 184,
-    "timeDay": 190,
-    "timeWeek": 184,
-    "timeMonth": 184,
-    "timeYear": 184,
-    "dailyMinutesDown": {}
+    "time": 176,
+    "timeDay": 149,
+    "timeWeek": 176,
+    "timeMonth": 176,
+    "timeYear": 176,
+    "dailyMinutesDown": {
+      "2023-04-10": 0
+    }
   }
 ]
