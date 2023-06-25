@@ -5,6 +5,8 @@ repo: statuspage
 sites:
   - name: Website
     url: https://blissroms.org
+    assignees:
+      - TechExhibeo
   - name: Downloads
     url: https://downloads.blissroms.org
   - name: API
