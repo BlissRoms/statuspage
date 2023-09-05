@@ -4,18 +4,20 @@
     "url": "https://blissroms.org",
     "icon": "https://icons.duckduckgo.com/ip3/blissroms.org.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 205,
-    "timeDay": 156,
-    "timeWeek": 194,
+    "timeDay": 187,
+    "timeWeek": 197,
     "timeMonth": 214,
     "timeYear": 205,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-05": 0
+    }
   },
   {
     "name": "Downloads",
