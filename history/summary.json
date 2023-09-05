@@ -4,19 +4,19 @@
     "url": "https://blissroms.org",
     "icon": "https://icons.duckduckgo.com/ip3/blissroms.org.ico",
     "slug": "website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.42%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 205,
-    "timeDay": 187,
-    "timeWeek": 197,
-    "timeMonth": 214,
+    "timeDay": 203,
+    "timeWeek": 201,
+    "timeMonth": 215,
     "timeYear": 205,
     "dailyMinutesDown": {
-      "2023-09-05": 0
+      "2023-09-05": 8
     }
   },
   {
