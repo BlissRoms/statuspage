@@ -11,13 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 225,
-    "timeDay": 129,
-    "timeWeek": 238,
-    "timeMonth": 243,
+    "timeDay": 370,
+    "timeWeek": 255,
+    "timeMonth": 247,
     "timeYear": 231,
-    "dailyMinutesDown": {
-      "2024-01-05": 27
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Downloads",
@@ -30,10 +28,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.55%",
-    "time": 995,
-    "timeDay": 614,
-    "timeWeek": 981,
-    "timeMonth": 1077,
+    "time": 996,
+    "timeDay": 1163,
+    "timeWeek": 1059,
+    "timeMonth": 1082,
     "timeYear": 989,
     "dailyMinutesDown": {
       "2024-11-26": 21,
@@ -76,9 +74,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.55%",
     "time": 263,
-    "timeDay": 160,
-    "timeWeek": 161,
-    "timeMonth": 162,
+    "timeDay": 177,
+    "timeWeek": 166,
+    "timeMonth": 163,
     "timeYear": 296,
     "dailyMinutesDown": {
       "2024-11-26": 19,
