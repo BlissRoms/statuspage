@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 229,
-    "timeDay": 368,
-    "timeWeek": 239,
-    "timeMonth": 219,
+    "time": 230,
+    "timeDay": 251,
+    "timeWeek": 247,
+    "timeMonth": 225,
     "timeYear": 236,
     "dailyMinutesDown": {}
   },
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.44%",
     "time": 1004,
-    "timeDay": 1344,
-    "timeWeek": 1002,
-    "timeMonth": 1036,
-    "timeYear": 996,
+    "timeDay": 1070,
+    "timeWeek": 1038,
+    "timeMonth": 1054,
+    "timeYear": 997,
     "dailyMinutesDown": {
       "2025-01-09": 598,
       "2024-11-26": 21,
@@ -58,8 +58,7 @@
       "2024-03-22": 1440,
       "2024-03-21": 1440,
       "2024-03-20": 1440,
-      "2024-03-19": 1216,
-      "2024-02-27": 373
+      "2024-03-19": 1216
     }
   },
   {
@@ -68,14 +67,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/downloads.blissroms.org.ico",
     "slug": "api",
     "status": "up",
-    "uptime": "97.55%",
+    "uptime": "97.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.44%",
     "time": 266,
-    "timeDay": 217,
-    "timeWeek": 169,
+    "timeDay": 144,
+    "timeWeek": 158,
     "timeMonth": 186,
     "timeYear": 299,
     "dailyMinutesDown": {
@@ -103,8 +102,7 @@
       "2024-03-22": 1440,
       "2024-03-21": 1440,
       "2024-03-20": 1440,
-      "2024-03-19": 1215,
-      "2024-02-27": 373
+      "2024-03-19": 1215
     }
   }
 ]
