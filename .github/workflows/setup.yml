@@ -13,7 +13,6 @@
 # * Docs and more: https://upptime.js.org
 # * More by Anand Chowdhary: https://anandchowdhary.com
 
-
 name: Setup CI
 on:
   push:
@@ -25,7 +24,7 @@ on:
 jobs:
   release:
     name: Setup Upptime
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v4
